@@ -1,0 +1,8 @@
+spring:
+  social:
+    twitter:
+      app-id: zO1J1ZWOONd1hGfnrsa5ziS5A 
+      app-secret: Wo4VFwlT10JdHZaqjITqfqIvy9eB22pem9Cln52hax3hi5bR5G 
+logging:
+  path: socialLogs
+signing.key: "12345"

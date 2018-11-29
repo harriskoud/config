@@ -1,0 +1,4 @@
+server:
+  port: 8889
+logging:
+  path: \home\poetryapp\services\Logs\configLogs
